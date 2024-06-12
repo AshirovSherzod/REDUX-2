@@ -1,0 +1,6 @@
+.followers__wrapper {
+    margin: 40px 195px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
